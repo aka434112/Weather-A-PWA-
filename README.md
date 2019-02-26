@@ -1,6 +1,6 @@
 # Weather Forecast
-# This is an application which gives details with regards to the weather for a particular city as entered by the user. The application is a progressive web application (PWA) which features an Add to Home Screen option, service workers and the Cache API.
-# Visit https://weather-c9c6a.firebaseapp.com/ to try out the application
+## This is an application which gives details with regards to the weather for a particular city as entered by the user. The application is a progressive web application (PWA) which features an Add to Home Screen option, service workers and the Cache API.
+## Visit https://weather-c9c6a.firebaseapp.com/ to try out the application
 
 > A Vue.js project
 
