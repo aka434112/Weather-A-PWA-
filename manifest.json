@@ -1,0 +1,27 @@
+{
+  "name": "Weather",
+  "short_name": "Weather",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "#FFA500",
+  "icons": [
+    {
+      "src": "./weather_128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./weather_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./weather_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FFA500"
+}
